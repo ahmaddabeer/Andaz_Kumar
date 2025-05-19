@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Andaz Kumar</string>
+    <string name="credit_score_status">
+    " " credit score  <font color="#4CAF50"><b>  &#8226; REFRESH AVAILABLE</b></font>
+</string>
+    <string name="your_rewards_benefits"><![CDATA[YOUR REWARDS & BENEFITS]]></string>
+    <string name="transactions_support"><![CDATA[TRANSACTIONS & SUPPORT]]></string>
+
+</resources>
